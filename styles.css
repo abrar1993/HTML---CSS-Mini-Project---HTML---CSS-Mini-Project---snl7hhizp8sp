@@ -1,1 +1,39 @@
-
+.header-1 {
+  width: 100%;
+  background-color: lightskyblue;
+  height: 30vh;
+  display: inline-block;
+}
+.header_center {
+  color: white;
+  text-align: left;
+  width: 40%;
+  float: left;
+}
+.header_left {
+  width: 40%;
+  float: left;
+}
+.header_right {
+  float: left;
+  widows: 20%;
+  color: white;
+}
+.main-header_profile {
+  float: right;
+}
+.main {
+  width: 100%;
+}
+.main_left {
+  width: 100%;
+  color: black;
+  background-color: lavenderblush;
+  display: inline-block;
+  border: 0px;
+  margin: 0px;
+  padding: 0px;
+}
+#education {
+  text-align: center;
+}
